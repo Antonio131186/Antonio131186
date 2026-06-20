@@ -20,7 +20,7 @@ I am building a practical portfolio focused on security operations, SIEM detecti
 
 Defensive Python labs for authentication log parsing, brute force detection, severity classification and SOC-style reporting.
 
-Repository: Repository: [soc-python-labs](https://github.com/Antonio131186/soc-python-labs)
+Repository: [soc-python-labs](https://github.com/Antonio131186/soc-python-labs)
 
 ## Technical Stack
 
